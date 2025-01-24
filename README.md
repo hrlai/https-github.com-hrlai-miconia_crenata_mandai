@@ -1,7 +1,7 @@
 [![DOI](http://img.shields.io/badge/Zenodo-versioned_data-blue)](https://doi.org/10.5281/zenodo.14549541)
 [![DOI](http://img.shields.io/badge/DOI-article-green)](https://doi.org/10.1111/btp.70002)
 
-# Data and code for Lai et al. (2024) *Biotropica*
+# Data and code for Lai et al. (2025) *Biotropica*
 
 Welcome! This is a data and code repository for the [publication](https://doi.org/10.1111/btp.70002):
 
